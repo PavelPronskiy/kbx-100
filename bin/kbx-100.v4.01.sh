@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#  Growbox console controller.
+#  kbx-100 module shell controller.
 #  This version supports firmware Web interface only LW3.0
 #  Version 0.3b
 #
@@ -13,14 +13,6 @@
 #  Free Documentation License''.
 
 # RELE TABLE 1-4 00001111
-
-
-SUN_RELE="1"
-AIR_RELE="2"
-
-AIR_INDOOR_LEFT_COOLER="8"
-AIR_INDOOR_RIGHT_COOLER="9"
-AIR_INDOOR_BLOW_COOLERS=""
 
 # HOST
 HOST_TO_KBX100="192.168.3.101"
